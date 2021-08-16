@@ -1,6 +1,6 @@
 # My Project Review
 
-> In project I was reviewing my project from the trails and add necessary, to have my project pass all no linter errors requirement.
+> In the project I was reviewing my project from the trails and add necessary, to have my project pass all no linter errors requirement.
 ## Built With
 
 - HTML
