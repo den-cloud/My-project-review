@@ -17,14 +17,16 @@ body {
   color: white;
   list-style: none;
   display: flex;
+  padding: .5rem;
 }
+
 ul {
   list-style: none;
   display: flex;
   text-decoration: none;
   padding: 1rem;
 }
-}
+
 
 @media (max-width: 500px) {
   body {
