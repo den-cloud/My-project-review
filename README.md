@@ -1,9 +1,6 @@
-# Hello Mircoverse
+# My Project Review
 
-> An introduction to HTML and CSS module, the basic setup with stylelint and webhint dependency integration.
-
-Additional description about the project and its features.
-
+> In project I was reviewing my project from the trails and add necessary, to have my project pass all no linter errors requirement.
 ## Built With
 
 - HTML
@@ -21,8 +18,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Run git clone `https://github.com/den-cloud/HelloMircoverse.git`
-- `cd hello-microverse`
+- Run git clone `https://github.com/den-cloud/My-project-review`
+- `My Project Review`
 
 ## Author
 
